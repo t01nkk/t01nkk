@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lautaro Daniel Gutierrez</h1>
-<h3 align="center">I am a passionate backend developer from Argentina</h3>
+<h3 align="center">I am a passionate fullstack developer from Argentina</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
