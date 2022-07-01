@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lautaro Daniel Gutierrez</h1>
 <h3 align="center">I am a passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently learning **Python and TypeScrypt**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lautaro.d.gutierrez@gmail.com**
 
