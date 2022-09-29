@@ -5,6 +5,7 @@
 - I also completed **soyhenry's FullStack Developer Bootcamp** 
 - and finished **Alkemy's academy NodeJS acceleration**
 <br>
+
 **Languages and Tools:**
 <br>
 <h4 style="color:rgb(223, 155, 9)" align="center">
